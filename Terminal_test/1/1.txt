@@ -1,0 +1,8 @@
+{
+   "person":{
+      "name":"Anton",
+      "age":22
+   },
+   "pets":0,
+   "desired salary":2500
+}
